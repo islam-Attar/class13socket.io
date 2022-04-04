@@ -11,6 +11,8 @@
 
 * You can run it by running `node server.js` on server side and then `npm run start ` on client side and after that it will open a chrome or whatever default broswer your PC has, on port `8080` and from their you can open mutliple tabs and send messages in the message section, also you can join rooms to send private messages to same clients who are connected on the same room.
 
+* You can open multiple browsers by opening new tab and writing `localhost:8080` and you can chat with others by writing in the `message` section and there is also send `private messages` in the rooms by joining (connecting) the same room then write messages there and it will be sent only to people who are connected to that room
+
 # UML
 
 ![](./lab13.png)
